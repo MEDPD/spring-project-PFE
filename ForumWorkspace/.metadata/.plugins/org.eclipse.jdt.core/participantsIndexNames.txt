@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+/home/medpd/medRoot/studies/courses/spring/projects/ForumWorkspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1568110962.index
+/Forum/src/main/java
